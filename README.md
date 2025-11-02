@@ -1,4 +1,4 @@
-##Link to CodePen: 
+## Link to CodePen: 
 https://codepen.io/Mariana-Ines-Torres-Pozos/pen/YPwRExQ?editors=1112
 
 # Spiral Grid Direction Calculator
