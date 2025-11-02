@@ -25,7 +25,7 @@ The solution uses a mathematical pattern based on grid dimensions:
   - N even → LEFT ('L')
   - N odd → RIGHT ('R')
 
-Regla general:
--Si N > M: Las columnas (M) limitan → evaluamos M
--Si N < M: Las filas (N) limitan → evaluamos N
--Si N = M: Ambas limitan igual → evaluamos N (o M, da igual)
+**Regla general**:
+- Si N > M: Las columnas (M) limitan → evaluamos M
+- Si N < M: Las filas (N) limitan → evaluamos N
+- Si N = M: Ambas limitan igual → evaluamos N (o M, da igual)
